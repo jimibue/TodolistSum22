@@ -1,3 +1,4 @@
+
 import React from "react";
 import {
   Button,
@@ -8,6 +9,7 @@ import {
   Input,
   List,
   Segment,
+  Card
 } from "semantic-ui-react";
 
 export default class TodoList extends React.Component {
