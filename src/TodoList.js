@@ -45,6 +45,7 @@ export default class TodoList extends React.Component {
       <Container>
         <Segment>
           <Header as="h1">TodoList Yo!!!</Header>
+          <p>Card import added</p>
           <Form onSubmit={this.handleSubmit}>
             <Input
               label="Todo name:"
