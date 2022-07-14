@@ -9,7 +9,6 @@ import {
   Input,
   List,
   Segment,
-  Card
 } from "semantic-ui-react";
 
 export default class TodoList extends React.Component {
