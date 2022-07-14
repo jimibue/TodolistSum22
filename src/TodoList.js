@@ -42,7 +42,7 @@ export default class TodoList extends React.Component {
     return (
       <Container>
         <Segment>
-          <Header as="h1">TodoList</Header>
+          <Header as="h1">TodoList Yo!!!</Header>
           <Form onSubmit={this.handleSubmit}>
             <Input
               label="Todo name:"
